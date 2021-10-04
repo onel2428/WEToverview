@@ -35,7 +35,11 @@ CSI-free WET schemes. With the same output data, one can also generate a figure 
 References:
 
 [REF1] - O. L. A. López, H. Alves, R. D. Souza, S. Montejo-Sánchez, E. Fernández and M. Latva-aho, "Massive Wireless Energy Transfer: Enabling Sustainable   IoT Towards 6G Era," in IEEE Internet of Things Journal.
+
 [REF2] - O. L. A. López, et al., "On CSI-free Multi-Antenna Schemes for Massive RF Wireless Energy Transfer," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2020.3003114.
+
 [REF3] - O. L. A. López, et al., "Statistical Analysis of Multiple Antenna Strategies for Wireless Energy Transfer," in IEEE Transactions on Communications, vol. 67, no. 10, pp. 7245-7262, Oct. 2019.
+
 [REF4] - B. Clerckx and J. Kim, "On the Beneficial Roles of Fading and Transmit Diversity in Wireless Power Transfer With Nonlinear Energy Harvesting," in IEEE Transactions on Wireless Communications, vol. 17, no. 11, pp. 7731-7743, Nov. 2018, doi: 10.1109/TWC.2018.2870377.
+
 [REF5] - O. L. A. López, F. A. Monteiro, H. Alves, R. Zhang and M. Latva-aho, "A Low-Complexity Beamforming Design for Multiuser Wireless Energy Transfer," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2020.3020576.
